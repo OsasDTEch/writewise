@@ -10,6 +10,8 @@ pypdf
 tiktoken
 google-generativeai
 typing-extensions
+langchain-anthropic
 pydantic
 
 faiss-cpu
+
