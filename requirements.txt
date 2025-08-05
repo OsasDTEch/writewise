@@ -4,7 +4,6 @@ langchain-google-genai
 langchain-chroma
 langgraph
 langchain-community
-faiss
 python-dotenv
 unstructured
 pypdf
@@ -12,4 +11,5 @@ tiktoken
 google-generativeai
 typing-extensions
 pydantic
+
 faiss-cpu
